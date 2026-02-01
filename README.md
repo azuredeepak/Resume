@@ -5,3 +5,4 @@ i will be able to add below points after end of this feb 26 after completing dev
 Shell
 github
 Docker
+Terraform already covered
